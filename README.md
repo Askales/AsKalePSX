@@ -1,2 +1,0 @@
-# AsKalePSX
-PSX
